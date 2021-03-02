@@ -83,8 +83,8 @@ As Confucious said: "Knowledge without practice is useless. Practice without kno
 
 These are other sources that are a great addition to the overall quality of life improvment scheme
 
-1. [Learning How to Learn - Free Course on Coursera] (https://www.coursera.org/learn/learning-how-to-learn)
-2. [The Science of Well Being - Free Course on Coursera] (https://www.coursera.org/learn/the-science-of-well-being)
+1. [Learning How to Learn - Free Course on Coursera](https://www.coursera.org/learn/learning-how-to-learn)
+2. [The Science of Well Being - Free Course on Coursera](https://www.coursera.org/learn/the-science-of-well-being)
 3. [RemNote - The best Learning Tool I ever used (wish I had did during medschool)](https://www.remnote.io)
 
 ## Credits
