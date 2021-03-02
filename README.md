@@ -56,13 +56,16 @@ This book is just a down-to-earth, no snake oil, basic investor mentality and ho
 ---
 ## Motivation
 You can be healthy and have money to spare, but you will get bored pretty soon if you don't find something to do with your life.
+
 **Deep Work by Cal Newport**
+
 ![Deep Work](https://user-images.githubusercontent.com/20741018/109695299-a3903000-7b83-11eb-81c8-a92beade1843.jpeg)
 
 This book was a life changer. 
 When you turn down all the distractions and follow the deep work rules, your produtivity improves 300% (not an overstatement).
 
 **The Power of Habit by Charles Duhigg**
+
 ![The Power of Habit](https://user-images.githubusercontent.com/20741018/109695863-55c7f780-7b84-11eb-8beb-d369e57ba0a9.jpg)
 
 You need to understand how to introduce all this newfound knowledge in your life.
