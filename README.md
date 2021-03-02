@@ -90,8 +90,11 @@ These are other sources that are a great addition to the overall quality of life
 ## Credits
 
 This is a work in progress list of materials that really changed my life for the better.
+
 Of course there are other great options, if not better, but the world is a big place and there's so much I can come across.
-Nonetheless all these resources have well above average reviews on all the major problems so you should be good.
+
+Nonetheless all these resources have well above average reviews on all the major platforms so you should be good.
+
 Now, get to work and have fun 😉
 
 
