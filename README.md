@@ -13,14 +13,14 @@ If you can introduce some of the things these books try to teach you, science wi
 No amount of money or success will make up for a deadly cancer, heart disease, alzheimer or overall poor shape.
 And nothing impacts our health more than our diet, sleep patterns and stress levels.
 
-__DIET__
+**How Not to Die by Michael Greger**
 
 ![How Not to Die](https://user-images.githubusercontent.com/20741018/109691747-aab53f00-7b7f-11eb-9109-c94f652939c7.jpg)
 
 This book is an exhustive review of what foods are scientifically proven to cause or help prevent the major causes of death in the Western World.
 It divides each disease by chapter and after a few chapter you begin to find a obvious pattern 🌱
 
-__SLEEP__
+**Why We Sleep by Matt Walker**
 
 ![Why We Sleep](https://user-images.githubusercontent.com/20741018/109691944-dafcdd80-7b7f-11eb-82fe-0d56db0bceb1.png)
 
@@ -28,7 +28,7 @@ I believe this is the quintessential bible of the Science of Sleep.
 You will learn a ton of cool stuff, but more importantly you will understand that there is no such thing as a sleep debt and 'I'm fine with 6h of sleep'. 
 You will regret it.
 
-__MEDITATION__
+**Piece in Every Step of the Way by Thich Nhat Hanh**
 
 ![Peace in Every Step of the Way](https://user-images.githubusercontent.com/20741018/109689777-8e180780-7b7d-11eb-9eb8-469270fb2ed9.png)
 
@@ -40,14 +40,21 @@ No questions that major scientific studies found that meditating has a significa
 Money is just a tool to achieve something. 
 We should better understand how to use it and how much we really need.
 
+**Rich Dad Poor Dad by Robert Kiwosaki**
+
 ![Rich Dad Poor Dad](https://user-images.githubusercontent.com/20741018/109692532-8dcd3b80-7b80-11eb-9d40-19fc55ffc526.jpg)
 
 The classic. This book is really small and simple but it completely changed my way of thinking about money. 
 
+**Unshakable by Tony Robbins**
+
 ![Unshakable](https://user-images.githubusercontent.com/20741018/109694179-6d9e7c00-7b82-11eb-9fb4-2896513e213c.jpg)
+
 Tony Robbins is probably the most well known 'Guru' there is. 
 This book was a great introduction to the stock market and what are reasonable expectations when investing.
 It also gave me a sense of how much money does one really need to achieve his goals.
+
+**The 5 Mistakes Every Investor Makes by Peter Mallouk** 
 
 ![The 5 Mistakes](https://user-images.githubusercontent.com/20741018/109694620-ed2c4b00-7b82-11eb-8aa9-6d59023b016e.png)
 I just realized the author of this book was part of the previous recommendation. No wonder I liked it so much.
