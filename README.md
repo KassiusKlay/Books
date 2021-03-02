@@ -40,7 +40,7 @@ No questions that major scientific studies found that meditating has a significa
 Money is just a tool to achieve something. 
 We should better understand how to use it and how much we really need.
 
-**Rich Dad Poor Dad by Robert Kiwosaki**
+**Rich Dad Poor Dad by Robert Kiyosaki**
 
 ![Rich Dad Poor Dad](https://user-images.githubusercontent.com/20741018/109692532-8dcd3b80-7b80-11eb-9d40-19fc55ffc526.jpg)
 
@@ -57,6 +57,7 @@ It also gave me a sense of how much money does one really need to achieve his go
 **The 5 Mistakes Every Investor Makes by Peter Mallouk** 
 
 ![The 5 Mistakes](https://user-images.githubusercontent.com/20741018/109694620-ed2c4b00-7b82-11eb-8aa9-6d59023b016e.png)
+
 I just realized the author of this book was part of the previous recommendation. No wonder I liked it so much.
 This book is just a down-to-earth, no snake oil, basic investor mentality and how to avoid the nonsense traps you get bombarded everyday as an investor.
 
