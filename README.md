@@ -1,10 +1,12 @@
-# Books
-My book recommendations for all walks of life
+# Books Recommendations
 
-## Intro
+There are many ways to gather information and learn, but books have always stood the test of time.
+You would think that the Internet and Youtube videos would replace all these boring white pages but actually they complement each other. 
 
-I believe that some aspects of our lifes are key to become a better person and live a happy and fulfilling life.
-If you are consistent with these habits, science will be on your side. The rest is luck 🎲
+When you are reading books you naturally focus and even though 99% of the content you end up forgetting, what remains is almost always something invaluable.
+
+These are the most influencial books in my life in the areas I believe are key to become a better person and have a happy and fulfilling journey during our time on Earth.
+If you can introduce some of the things these books try to teach you, science will be on your side. The rest is luck 🎲
 
 ## Health
 No amount of money or success will make up for a deadly cancer, heart disease, alzheimer or overall poor shape.
