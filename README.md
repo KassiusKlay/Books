@@ -36,7 +36,8 @@ No questions that major scientific studies found that meditating has a significa
 
 Money is just a tool to achieve something. We should better understand how to use and how much we really need.
 
-![Rich Dad Poor Dad](https://user-images.githubusercontent.com/20741018/109692194-244d2d00-7b80-11eb-92bf-5ca365bda8dc.png)
+![Rich Dad Poor Dad](https://user-images.githubusercontent.com/20741018/109692380-5a8aac80-7b80-11eb-8946-a752b905acac.jpg)
+
 
 
 The classic. This book is really small and simple but it completely changed my way of thinking about money. 
