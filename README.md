@@ -11,7 +11,7 @@ If you are consistent with these habits, science will be on your side. The rest 
 No amount of money or success will make up for a deadly cancer, heart disease, alzheimer or overall poor shape.
 And nothing impacts our health more than our diet, sleep patterns and stress levels.
 
-__**Diet**__
+__Diet__
 
 ![How Not to Die](https://user-images.githubusercontent.com/20741018/109691747-aab53f00-7b7f-11eb-9109-c94f652939c7.jpg)
 
