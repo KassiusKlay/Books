@@ -6,12 +6,11 @@ My book recommendations for all walks of life
 I believe that some aspects of our lifes are key to become a better person and live a happy and fulfilling life.
 If you are consistent with these habits, science will be on your side. The rest is luck 🎲
 
----
 ## Health
 No amount of money or success will make up for a deadly cancer, heart disease, alzheimer or overall poor shape.
 And nothing impacts our health more than our diet, sleep patterns and stress levels.
 
-__Diet__
+__DIET__
 
 ![How Not to Die](https://user-images.githubusercontent.com/20741018/109691747-aab53f00-7b7f-11eb-9109-c94f652939c7.jpg)
 
