@@ -19,7 +19,7 @@ It divides each disease by chapter and after a few chapter you begin to find a o
 
 **Sleep**
 
-![Why We Sleep](https://user-images.githubusercontent.com/20741018/109688692-79873f80-7b7c-11eb-92c2-cc7f0117bb3e.png)
+![Why We Sleep](https://user-images.githubusercontent.com/20741018/109691944-dafcdd80-7b7f-11eb-82fe-0d56db0bceb1.png)
 
 I believe this is the quintessential bible of the Science of Sleep. 
 You will learn a ton of cool stuff, but more importantly you will understand that there is no such thing as a sleep debt and 'I'm fine with 6h of sleep'. 
@@ -36,7 +36,8 @@ No questions that major scientific studies found that meditating has a significa
 
 Money is just a tool to achieve something. We should better understand how to use and how much we really need.
 
-![Rich Dad Poor Dad](https://user-images.githubusercontent.com/20741018/109690699-87d65b00-7b7e-11eb-991d-fe616c6f9101.png)
+![Rich Dad Poor Dad](https://user-images.githubusercontent.com/20741018/109691998-ea7c2680-7b7f-11eb-856a-183de7d5a7a8.png)
+
 
 The classic. This book is really small and simple but it completely changed my way of thinking about money. 
 
