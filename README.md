@@ -12,7 +12,7 @@ And nothing impacts our health more than our diet, sleep patterns and stress lev
 
 **Diet**
 
-![How Not to Die](https://user-images.githubusercontent.com/20741018/109688347-15647b80-7b7c-11eb-9de7-8d0df08cd95d.png)
+![How Not to Die](https://user-images.githubusercontent.com/20741018/109691747-aab53f00-7b7f-11eb-9109-c94f652939c7.jpg)
 
 This book is an exhustive review of what foods are scientifically proven to cause or help prevent the major causes of death in the Western World.
 It divides each disease by chapter and after a few chapter you begin to find a obvious pattern 🌱
