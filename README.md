@@ -6,6 +6,7 @@ You would think that the Internet and Youtube videos would replace all these bor
 When you are reading books you naturally focus and even though 99% of the content you end up forgetting, what remains is almost always something invaluable.
 
 These are the most influencial books in my life in the areas I believe are key to become a better person and have a happy and fulfilling journey during our time on Earth.
+
 If you can introduce some of the things these books try to teach you, science will be on your side. The rest is luck 🎲
 
 ## Health
