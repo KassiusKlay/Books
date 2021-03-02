@@ -7,20 +7,18 @@ I believe that some aspects of our lifes are key to become a better person and l
 If you are consistent with these habits, science will be on your side. The rest is luck 🎲
 
 ---
-### Health
+## Health
 No amount of money or success will make up for a deadly cancer, heart disease, alzheimer or overall poor shape.
 And nothing impacts our health more than our diet, sleep patterns and stress levels.
 
----
-**Diet**
+__**Diet**__
 
 ![How Not to Die](https://user-images.githubusercontent.com/20741018/109691747-aab53f00-7b7f-11eb-9109-c94f652939c7.jpg)
 
 This book is an exhustive review of what foods are scientifically proven to cause or help prevent the major causes of death in the Western World.
 It divides each disease by chapter and after a few chapter you begin to find a obvious pattern 🌱
 
----
-**Sleep**
+__**Sleep**__
 
 ![Why We Sleep](https://user-images.githubusercontent.com/20741018/109691944-dafcdd80-7b7f-11eb-82fe-0d56db0bceb1.png)
 
@@ -28,8 +26,7 @@ I believe this is the quintessential bible of the Science of Sleep.
 You will learn a ton of cool stuff, but more importantly you will understand that there is no such thing as a sleep debt and 'I'm fine with 6h of sleep'. 
 You will regret it.
 
----
-**Meditation**
+__**Meditation**__
 
 ![Peace in Every Step of the Way](https://user-images.githubusercontent.com/20741018/109689777-8e180780-7b7d-11eb-9eb8-469270fb2ed9.png)
 
@@ -37,7 +34,7 @@ This is something that is really hard to feel a palpable impact in your life (un
 No questions that major scientific studies found that meditating has a significant impact on your health and life quality, and many people swear by it, myself included.
 
 ---
-### Money
+## Money
 
 Money is just a tool to achieve something. We should better understand how to use and how much we really need.
 
