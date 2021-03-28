@@ -85,7 +85,7 @@ These are other sources that are a great addition to the overall quality of life
 
 1. [Learning How to Learn - Free Course on Coursera](https://www.coursera.org/learn/learning-how-to-learn)
 2. [The Science of Well Being - Free Course on Coursera](https://www.coursera.org/learn/the-science-of-well-being)
-3. [RemNote - The best Learning Tool I ever used (wish I had did during medschool)](https://www.remnote.io)
+3. [RemNote - The best Learning Tool I ever used (wish I had it during medschool)](https://www.remnote.io)
 
 ## Credits
 
@@ -96,10 +96,3 @@ Of course there are other great options, if not better, but the world is a big p
 Nonetheless all these resources have well above average reviews on all the major platforms so you should be good.
 
 Now, get to work and have fun 😉
-
-
-
-
-
-
-
